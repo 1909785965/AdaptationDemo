@@ -7,6 +7,8 @@
 //
 
 #import "AppDelegate.h"
+#import "SecViewController.h"
+
 
 @interface AppDelegate ()
 
@@ -17,6 +19,18 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
+    
+
+//    SecViewController * vc = [[SecViewController alloc]init];
+//    self.window.rootViewController = vc;
+//    [self.window makeKeyAndVisible];
+//    [self.window setBackgroundColor:[UIColor whiteColor]];
+    
+    
+ 
+    
+    
+    
     return YES;
 }
 
